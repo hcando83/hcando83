@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hcando83
+- 👋 Hi, I’m Henry
 - 👀 I’m interested in becoming a software engineer one day!
 - 🌱 I’m currently learning Python and C++(mainly Python).
 - 💞️ I’m looking to collaborate on projects or tasks that can help me gain experiance and understanding in coding.
